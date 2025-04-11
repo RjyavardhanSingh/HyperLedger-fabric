@@ -129,8 +129,6 @@ This project sets up a **multi-channel Hyperledger Fabric v2.5.0 network** with 
 # 7. Demo the Full Network Stack
 ./demo-network.sh
 
-```bash
-
 
 # 🧱 Hyperledger Fabric Multi-Channel Network
 
