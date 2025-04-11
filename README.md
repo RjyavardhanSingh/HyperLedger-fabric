@@ -130,7 +130,9 @@ This project sets up a **multi-channel Hyperledger Fabric v2.5.0 network** with 
 ./demo-network.sh
 
 
-# 🧱 Hyperledger Fabric Multi-Channel Network
+
+---
+## 🧱 Hyperledger Fabric Multi-Channel Network
 
 > **EDUCATIONAL DISCLAIMER**: This repository contains modified code from the official [Hyperledger Fabric Samples](https://github.com/hyperledger/fabric-samples) and is used **exclusively for learning and educational purposes** as part of a class project. It is not intended for production use.
 >
@@ -141,3 +143,4 @@ This project sets up a **multi-channel Hyperledger Fabric v2.5.0 network** with 
 [![Purpose](https://img.shields.io/badge/Purpose-Educational-orange)](https://github.com/RjyavardhanSingh/Hyperledger-fabric)
 
 This project sets up a **multi-channel Hyperledger Fabric v2.5.0 network** with **three organizations** and **three channels**, demonstrating **data isolation**, **selective membership**, and **privacy-preserving chaincode deployments** for academic learning purposes.
+---
